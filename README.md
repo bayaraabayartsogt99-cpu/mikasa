@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>welcome to Internet Technology Fundamentals</title>
+	<title>Bayaraa</title>
 </head>
 <body>
 <background>#55555
