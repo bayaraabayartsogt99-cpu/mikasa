@@ -4,7 +4,6 @@
 	<title>Bayaraa</title>
 </head>
 <body>
-<background>#55555
-	<h1>Hi lalraa </h1>
+	<h1>Hi  </h1>
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temport incididunt ut labore et dolore magne aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat mulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	
