@@ -6,5 +6,5 @@
 <body>
 	<h1>Welcome to Mongolia</h1>
 	<h2>welcome to mongolia</h2>
-	<a hfeg>"https://ikon.mn/"</a>
+	<a href="https://ikon.mn/">ikon.mn</a>
 	
